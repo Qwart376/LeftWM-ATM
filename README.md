@@ -1,7 +1,7 @@
-Advanced Theme Manager - Realtime maintenance and theme managment at your service.
+Advanced Theme Manager by Qwart376 - On-demand maintenance and theme managment at your service.
 
 # Features:
-First, non-dynamic version will be uploaded this or next day
+First version will be uploaded this or next day. For now this repo is used to check tool's downloads
 
 # Upcomming:
 - Repair module for fixing themes broken due to LeftWM changes
