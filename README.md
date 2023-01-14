@@ -1,6 +1,7 @@
 Advanced Theme Manager - Realtime maintenance and theme managment at your service.
 
 # Features:
+First, non-dynamic version will be uploaded this or next day
 
 # Upcomming:
 - Repair module for fixing themes broken due to LeftWM changes
